@@ -5,3 +5,9 @@ export const loginUser = () => ({
 });
 
 export const logoutUser = () => ({ type: actions.LOGOUT });
+
+export const increment = () => ({
+  type: actions.INCREMENT,
+});
+
+export const decrement = () => ({ type: actions.DECREMENT });
