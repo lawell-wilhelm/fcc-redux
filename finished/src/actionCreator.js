@@ -11,3 +11,5 @@ export const increment = () => ({
 });
 
 export const decrement = () => ({ type: actions.DECREMENT });
+
+export const addNote = (note) => ({ type: actions.ADD_NOTE, text: note });

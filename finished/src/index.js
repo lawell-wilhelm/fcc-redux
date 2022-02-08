@@ -7,3 +7,4 @@ store.dispatch(actionCreator.loginUser());
 store.dispatch(actionCreator.increment());
 store.dispatch(actionCreator.logoutUser());
 store.dispatch(actionCreator.decrement());
+store.dispatch(actionCreator.addNote("Hello, Redux!"));
