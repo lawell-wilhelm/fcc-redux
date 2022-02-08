@@ -1,3 +1,3 @@
-const reducer = (state = 5) => state;
+const reducer = (state = { login: false }) => state;
 
 export default reducer;
