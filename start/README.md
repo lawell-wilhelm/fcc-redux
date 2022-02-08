@@ -157,7 +157,6 @@ import * as actions from "./actions"
 5. Change the `loginAction` import to,
 
 ```import * as actionCreator from "./actionCreator";
-
 ```
 
 6. Edit `index.js`, pass on actionCreator.`loginUser` to `dispatch` instead of `loginAction`
