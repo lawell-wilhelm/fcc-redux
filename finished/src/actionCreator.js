@@ -1,3 +1,7 @@
-import { action } from "./actions";
+import * as actions from "./actions";
 
-export const loginAction = () => action;
+export const loginUser = () => ({
+  type: actions.LOGIN,
+});
+
+export const logoutUser = () => ({ type: actions.LOGOUT });

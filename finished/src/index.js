@@ -1,7 +1,7 @@
 import store from "./store";
-import { loginAction } from "./actionCreator";
+import * as actionCreator from "./actionCreator";
 
-store.dispatch(loginAction());
+store.dispatch(actionCreator.loginUser());
 
 const currentState = store.getState();
 
