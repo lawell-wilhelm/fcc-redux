@@ -1,3 +1,5 @@
 import store from "./store";
 
-console.log(store);
+const currentState = store.getState();
+
+console.log(currentState);
