@@ -5,7 +5,7 @@
 Snowpack, is the lightning-fast frontend build tool, designed for the modern web I chose to for this project. It requires little configurations to get up and running.
 [more about snowpack](https://www.snowpack.dev/)
 
-### Configure snowpack, frontend build tool
+### [Configure snowpack, frontend build tool](https://www.snowpack.dev/tutorials/quick-start)
 
 1. Open the file named `snowpack.config.mjs`
 2. inside the mount block add the following block:
