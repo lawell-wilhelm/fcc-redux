@@ -1,10 +1,10 @@
-# Redux Basics
+# FCC Redux
 
 ![Finished work](./result.png)
 
 ## What's Redux Basics
 
-Redux basics is an implementation of [FreeCodeCamp's Redux course](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux) from the Fronend Libraries Certification Curriculum, on a local environment.
+FCC Redux is an implementation of [FreeCodeCamp's Redux course](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux) from the Fronend Libraries Certification Curriculum, on a local environment.
 
 ## Why did I create it?
 
