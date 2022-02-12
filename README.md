@@ -8,7 +8,7 @@ FCC Redux is an implementation of [FreeCodeCamp's Redux course](https://www.free
 
 ## Why did I create it?
 
-I created this repository to share it with my fellow campers so they can also learn how to implement everything they learn about Redux on the browser environment on their own local environment.
+I created this repository to share it with my fellow campers so they can also learn how to implement everything they learn about Redux in the browser environment in their own local environment.
 
 ## How to use it?
 
